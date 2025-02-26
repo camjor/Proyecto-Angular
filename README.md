@@ -1,20 +1,37 @@
-# CliInmuebleApp
+# Proyecto Angular - Material Design y Angular  
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+Este proyecto fue desarrollado para la empresa colombiana **Ff Shipping S.A.S.** con el objetivo de crear su página web y proporcionar un sistema de control total de inventario. Se compone de un **frontend en Angular** y un **backend potente en .NET**, desplegado en **Kubernetes** para garantizar escalabilidad y estabilidad.  
 
-## Development server
+## Tecnologías utilizadas  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### **Frontend (Angular)**  
+- **Angular** con Material Design  
+- **Pipes**, **Services** y **Components**  
+- **RXJS** para programación reactiva  
+- **Reactive Forms** para formularios avanzados  
+- **Comunicación asíncrona** entre componentes y backend  
+- **Creación de componentes gráficos avanzados**  
 
-## Code scaffolding
+### **Backend (.NET + Kubernetes)**  
+- **.NET Core** para la lógica del servidor  
+- **Kubernetes** para orquestación y despliegue  
+- **JWT (JSON Web Tokens)** para autenticación segura  
+- **Spring Security** para gestión de permisos  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalación y configuración  
 
-## Build
+### **Requisitos previos**  
+Asegúrate de tener instalados:  
+- [Node.js](https://nodejs.org/)  
+- [Angular CLI](https://angular.io/cli)  
+- [Docker](https://www.docker.com/) (si deseas correr el backend con Kubernetes)  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### **Clonación del repositorio**  
 
-## Running unit tests
+- git clone[ https://github.com/tuusuario/tu-repositorio.git](https://github.com/camjor/Proyecto-Angular.git)
+- cd tu-repositorio
+
+## **Running unit tests**
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
