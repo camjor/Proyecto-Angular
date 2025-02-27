@@ -7,7 +7,7 @@ export const environment = {
   name: 'dev',
   firebase:{
     config : {
-      apiKey: "AIzaSyCj6AbaI9Lvl-Tt-nLz8Z629ShZ6fz-eXQ",
+
       authDomain: "edificacion-app-6cf84.firebaseapp.com",
       projectId: "edificacion-app-6cf84",
       storageBucket: "edificacion-app-6cf84.firebasestorage.app",
